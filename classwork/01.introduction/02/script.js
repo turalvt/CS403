@@ -28,3 +28,10 @@ console.log(user.work);
 console.log(user["first-name"]);
 user.lastname = "zakirli"
 console.log(user.lastname);
+
+const newobj1 = {...user}
+// const newobj1 = user
+console.log(newobj1);
+user.age = 89
+console.log(newobj1);
+console.log("user", user);
