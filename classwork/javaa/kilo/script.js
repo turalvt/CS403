@@ -1,6 +1,6 @@
 let kilo =Number(prompt("kilonuzu girin"))
 let boy =Number(prompt("boyunuzu girin"))
-let sonuc = (boy*100)-100
+let sonuc = kilo / (boy*boy)
    
     if(kilo < sonuc - 10){
     alert("ideal kilonun altindasiniz(zargana)")
