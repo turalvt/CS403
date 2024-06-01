@@ -310,14 +310,14 @@
 // ]
 
 
-// //QEYD Bu tasklarda arr2 istifade edilecekdir
-// // 16 arr2 de "name"-i "t" herfi ile bashlayan obyektleri yeni arraya yigin
-// // 17 arr2 de "name"-i "t" herfi ile bashlayib "t" herfi ile biten obyektlerin sayini tapin
-// // 18 arr2 de "name"-i "t" herfi ile bashlayib "t" herfi ile biten obyektlerin "key"- lerinin cemini tapin
-// // 19 arr2 de "name"-i "e" herfi ile biten obyeklerdeki name-in deyerini "SuperDev" sozu ile evezleyin.
-// // 20 arr2 de "name"-i en uzun olan obyektin key-i ni tapin
-// // 21 arr2 de "name"-i en uzun olan obyektin indexin kvadratini hesablayin
-// // 22 arr2 de "name"-inin uzunlugu 4 olan obyektlerden ibaret yeni array yaradin.
-// // 23 arr2 de en boyuk "key" - i olan obyektin "name"-i ni tapin
-// // 24 arr2 de terkibinde 2 'L' herfi olan obyekt(ler)in index(ler)ini tapin.
-// // 25 arr2 de terkibinde 2 't' herfi olan obyekt(ler)in key(ler)ini tapin.
+// QEYD Bu tasklarda arr2 istifade edilecekdir
+// 16 arr2 de "name"-i "t" herfi ile bashlayan obyektleri yeni arraya yigin
+// 17 arr2 de "name"-i "t" herfi ile bashlayib "t" herfi ile biten obyektlerin sayini tapin
+// 18 arr2 de "name"-i "t" herfi ile bashlayib "t" herfi ile biten obyektlerin "key"- lerinin cemini tapin
+// 19 arr2 de "name"-i "e" herfi ile biten obyeklerdeki name-in deyerini "SuperDev" sozu ile evezleyin.
+// 20 arr2 de "name"-i en uzun olan obyektin key-i ni tapin
+// 21 arr2 de "name"-i en uzun olan obyektin indexin kvadratini hesablayin
+// 22 arr2 de "name"-inin uzunlugu 4 olan obyektlerden ibaret yeni array yaradin.
+// 23 arr2 de en boyuk "key" - i olan obyektin "name"-i ni tapin
+// 24 arr2 de terkibinde 2 'L' herfi olan obyekt(ler)in index(ler)ini tapin.
+// 25 arr2 de terkibinde 2 't' herfi olan obyekt(ler)in key(ler)ini tapin.
